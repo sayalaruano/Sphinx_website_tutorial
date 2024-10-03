@@ -1,8 +1,5 @@
 # Headline of the article
 
-> Author: Your Name
+> Author: Sebastian Ayala Ruano
 
-Write something using markdown syntax. You can use the 
-[Markdown Guide](https://www.markdownguide.org/basic-syntax/) or
-[GitHub Docs Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-to learn more about the markup syntax.
+Hello world! This is the first article of the notes template. This is a template for creating notes in markdown and converting them to a website using Sphinx. 

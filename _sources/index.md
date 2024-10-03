@@ -17,3 +17,11 @@ about
 folder_topic/article_topic
 ```
 
+```{toctree}
+:maxdepth: 2
+:hidden:
+:caption: Programming
+
+folder_topic/coding
+```
+
