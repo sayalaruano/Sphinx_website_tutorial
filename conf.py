@@ -6,9 +6,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Data Science Platform notes template"
+project = "Sphinx tutorial"
 copyright = "2024, DTU Biosustain, Informatics Platform, DSP"
-author = "Henry Webel"
+author = "Sebastian Ayala Ruano"
 
 
 # -- General configuration ---------------------------------------------------
@@ -80,8 +80,8 @@ html_theme = "sphinx_book_theme"
 # html_logo = "_static/logo-wide.svg"
 # html_favicon = "_static/logo-square.svg"
 html_theme_options = {
-    "github_url": "https://github.com/enryh/",
-    "repository_url": "https://github.com/enryh/notes_template",
+    "github_url": "https://sayalaruano.github.io/Sphinx_website_tutorial/",
+    "repository_url": "https://github.com/sayalaruano/Sphinx_website_tutorial",
     # "repository_branch": "main",
     # "home_page_in_toc": True,
     # "path_to_docs": "docs",
